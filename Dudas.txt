@@ -1,0 +1,40 @@
+1) No se ve bien el precio y el descuento
+
+2) Vertical align top (espacio abajo del figure) esta bien usarlo?
+
+3) En el Header, se ve mal el nav en ciertas resoluciones
+
+4) Como chequear inputs en los Forms
+
+	Clase invalid para cambiar el formato del campo
+	
+	input:focus:invalid{}
+
+
+5) Centrar bien los forms
+
+6) Reset general al CSS (inputs, listas, etc)
+
+7) Como quitar el recuadro negro de los inputs al escribir
+
+9) Como hacer el registro en 2 columnas
+
+8) Como hacer que la pagina se mueva para abajo de forma suave al hacer hover en los articulos
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Links que lleven a algun lado. Sino, no ponerlos
+
+Crear carpeta en la cual crear todo la estructura de carpetas, hacer el NPM INIT, etc
+
+Acepto condiciones en el registro
+
+Se me olvido la contraseña
+
+Checkbox para que recuerde al usuario en el login
+
+Animaciones
