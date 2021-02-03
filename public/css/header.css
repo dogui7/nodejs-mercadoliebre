@@ -79,7 +79,9 @@ nav{
     background-color: #03264C;
 }
 
-
+#banner img{
+    width: 100vw;
+}
 
 /********************************************
                   Tablet 

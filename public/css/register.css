@@ -123,30 +123,5 @@ input{
     .botones{
         width: 40%;
     }
-
-    /* Version 2 columnas, no lo pude lograr*/
-
-    /*
-    .campo{
-        
-    }
-
-    .mitad-pantalla{
-        display: flex;
-        justify-content: space-around;
-    }
-
-    .form-izquierda, .form-derecha{
-        width: 100%;
-        background-color: #666666;
-        margin: 1rem;
-        padding: 1rem;
-        border-radius: 4px;
-    }
-
-    .form-izquierda{
-        align-items: space-between;
-    }
-    */
     
 }
